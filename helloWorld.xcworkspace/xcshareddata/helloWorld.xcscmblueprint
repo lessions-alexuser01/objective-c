@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "EE40D595E1451A175446511A30596DBB34B8D869",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "EE40D595E1451A175446511A30596DBB34B8D869" : 0,
+    "0D07110E039E8F640069276CE72C315501EB7C43" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B653EE2E-5776-4B2F-B5AD-999CBDFE800F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "EE40D595E1451A175446511A30596DBB34B8D869" : "helloWorld\/",
+    "0D07110E039E8F640069276CE72C315501EB7C43" : "..\/..\/.."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "helloWorld",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "helloWorld.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "bitbucket.org:alex2006hw-lessions\/2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0D07110E039E8F640069276CE72C315501EB7C43"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/alex2006hw\/objective-c.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EE40D595E1451A175446511A30596DBB34B8D869"
+    }
+  ]
+}
